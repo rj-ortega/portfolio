@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com" # Hostname (and path) to the root.
-title = "Yusuke Ishimi" # Site title.
+title = "Ricardo Ortega" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
@@ -11,21 +11,17 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
 
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
-
 [params] # theme parameters
     author = "Ricardo Ortega" # Author's name.
     info = "Software Developer" # Author's job title or info.
     description = "Ricardo Ortega's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/rj-fitz-roy.png" # Contain the path of the optional avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    footercontent = "Hello There." # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Custom CSS
@@ -57,29 +53,19 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/naro143/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://github.com/rj-ortega"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
-[[params.social]]
-    # If icon is not set, Text is displayed.
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/in/rj-ortega/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
-[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "about"
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url  = "projects"
