@@ -30,3 +30,9 @@ Build
 ```
 hugo -t coder-portfolio
 ```
+
+Add Project
+
+```
+hugo new project
+```

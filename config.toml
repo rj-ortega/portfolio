@@ -16,7 +16,7 @@ pygmentsUseClasses = true # new add
     info = "Software Developer" # Author's job title or info.
     description = "Ricardo Ortega's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/rj-fitz-roy.png" # Contain the path of the optional avatar in the static folder.
+    avatarurl = "images/rj.png" # Contain the path of the optional avatar in the static folder.
 
     footercontent = "Hello There." # Add footer content
 
@@ -25,7 +25,9 @@ pygmentsUseClasses = true # new add
     hideCopyright = false
 
     # Custom CSS
-    custom_css = []
+    custom_css = [
+        "css/custom.css"
+    ]
 
     # Alignment of Mobile Menu items
     itemscentered = true
