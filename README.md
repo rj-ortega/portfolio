@@ -34,5 +34,7 @@ hugo -t coder-portfolio
 Add Project
 
 ```
-hugo new project
+hugo new projects/name-of-project.md
 ```
+
+Then, change date to "2019-08-03" format and set draft to false
