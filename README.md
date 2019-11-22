@@ -14,3 +14,9 @@ Run
 ```
 hugo serve
 ```
+
+Build
+
+```
+hugo -t coder-portfolio
+```
