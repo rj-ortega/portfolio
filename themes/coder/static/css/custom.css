@@ -1,0 +1,6 @@
+.avatar {
+  transition: all 1s;
+}
+.avatar:hover {
+  filter: grayscale(1);
+}
