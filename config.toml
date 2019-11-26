@@ -1,5 +1,5 @@
-baseurl = "http://localhost:8080" # Hostname (and path) to the root.
-title = "Ricardo Ortega" # Site title.
+baseurl = "https://rj-ortega.dev" # Hostname (and path) to the root.
+title = "Ricardo J Ortega" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
@@ -18,7 +18,7 @@ pygmentsUseClasses = true # new add
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/rj.png" # Contain the path of the optional avatar in the static folder.
 
-    footercontent = "Hello There." # Add footer content
+    footercontent = "Hello there." # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
@@ -52,15 +52,25 @@ pygmentsUseClasses = true # new add
 
 # Social links
 [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/rj-ortega/"
+[[params.social]]
     name = "Github"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/rj-ortega"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    name = "Blog"
+    icon = "fas fa-edit"
     weight = 3
-    url = "https://www.linkedin.com/in/rj-ortega/"
+    url = "https://github.com/rj-ortega/knowledge_database/wiki"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 3
+    url = "https://www.instagram.com/ricardo_ortega/"
 
 # Menu links
 [[menu.main]]
