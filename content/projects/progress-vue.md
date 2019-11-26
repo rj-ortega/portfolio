@@ -4,7 +4,6 @@ title = "Progress with Vue"
 math = "true"
 +++
 
-
 # Vue App
 
 Inspired by the [Enquire](https://enquiresolutions.com/crm-software/) app website, I decided to create a simple app to get familiar with [Vue.js](https://vuejs.org/) which I had no prior experience
