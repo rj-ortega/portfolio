@@ -2,6 +2,10 @@
 
 > Personal website built with Hugo Site Generator
 
+## Deploy
+
+Deployed at [rj-ortega.dev](https://rj-ortega.dev)
+
 ## Info
 
 - [Hugo](https://gohugo.io/)
