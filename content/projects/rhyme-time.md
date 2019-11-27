@@ -76,6 +76,7 @@ Collaborated with Dustin Keys [@codeHustler91](https://github.com/codeHustler91)
 
    - [Ruby](https://www.ruby-lang.org/en/) - High-level language
    - [RoR](https://rubyonrails.org/) - Ruby on Rails API server
+   - [Sass](https://sass-lang.com) - Style sheet language
    - [jQuery](https://jquery.com/) - JavaScript library  
    - [Sinatra](http://sinatrarb.com/) - DSL (Domain Specific Language)
    - [PostgreSQL](https://www.postgresql.org/) - open-source relational database management system

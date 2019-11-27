@@ -22,5 +22,6 @@ App to get familiarity with Angular framework
 
 - [JavaScript](https://www.javascript.com/) - High-level Language
 - [Angular](https://angular.io) - JavaScript framework
+- [Sass](https://sass-lang.com) - Style sheet language
 
 MIT Licence

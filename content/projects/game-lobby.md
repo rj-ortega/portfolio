@@ -4,7 +4,7 @@ title = "Game Lobby"
 math = "true"
 +++
 
-App built using React and Ruby on Rails for the backend
+App built using React and Ruby on Rails for the server
 
 ### > Functionality
 
