@@ -4,13 +4,11 @@ title = "Progress with Vue"
 math = "true"
 +++
 
-# Vue App
-
 Inspired by the [Enquire](https://enquiresolutions.com/crm-software/) app website, I decided to create a simple app to get familiar with [Vue.js](https://vuejs.org/) which I had no prior experience
 
 ## Links
 
-- [Github](https://github.com/rj-ortega/vue-enquire-app)
+- [Github repo](https://github.com/rj-ortega/vue-enquire-app)
 - Deployed at: https://progress-vue.firebaseapp.com/#/
 
 ## Flow

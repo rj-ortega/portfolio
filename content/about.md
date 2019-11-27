@@ -4,9 +4,13 @@ slug = "about"
 description = "about"
 +++
 
+You can reach me at: rikrdo.ortega@gmail.com
+
+##### > Bio
+
 Hello! I'm a software developer recently graduated from Flatiron Schools and is looking for a job in the Denver area. I enjoy losing track of time coding, playing games, climbing things, and long walks on the beach.
 
-### Full Bio
+##### > Full Bio
 
 Hello again! So, I was born and raised in Venezuela and I came to the US when I was 14 years old. Not knowing how to speak english very well, I somehow made my way through high school. But eventually I finished school, made some friends, and was actually able to picture living in the US instead of constantly wanting to go to my country/.
 
