@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ricardo J Ortega</title>
+    <link>https://rj-ortega.dev/projects/</link>
+    <description>Recent content in Projects on Ricardo J Ortega</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rj-ortega.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wolves</title>
+      <link>https://rj-ortega.dev/projects/wolves/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/wolves/</guid>
+      <description>🐺 Wolves is a 2D cli game currently in development using Ruby collaborating with Berto
+&amp;gt; Functionality  You can add Archers and Rifleman to combat the pack of wolves coming at you You can delete your hooman if you want to let the wolves win  &amp;gt; Usage bundle install ruby ./bin/wolves
+&amp;gt; Controls  up and down arrows to select different rows a to place archer r to place rifleman d to remove character  &amp;gt; Demo &amp;gt; Tests bundle exec rspec</description>
+    </item>
+    
+    <item>
+      <title>Progress with Vue</title>
+      <link>https://rj-ortega.dev/projects/progress-vue/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/progress-vue/</guid>
+      <description>Inspired by the Enquire app on their website, I decided to create a simple app to get familiar with Vue.js which I had no prior experience
+&amp;gt; Functionality  Home page has interactive particle background Demo will populate cards with pre-seeded data You can toggle selected cards Clicking on a card will update progress card with the user&amp;rsquo;s sales information  &amp;gt; Demo Web Mobile &amp;gt; Links  Github repo Deployed at: https://progress-vue.</description>
+    </item>
+    
+    <item>
+      <title>Ani Lobby</title>
+      <link>https://rj-ortega.dev/projects/ani-lobby/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/ani-lobby/</guid>
+      <description>Capstone project built in 3 weeks using new technologies.
+&amp;gt; Functionality  Search for anime by season by clicking on the links on top of the page Look up anime by title with the search bar A card will populate for each anime with information about it Sign in and out to the website using OAuth  &amp;gt; Demo &amp;gt; Links  This project&amp;rsquo;s github repo Deployment website Golang Server repo  &amp;gt; Technologies All new technologies to me at the time except for React.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Develop Denver</title>
+      <link>https://rj-ortega.dev/projects/hackathon-develop-dever/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/hackathon-develop-dever/</guid>
+      <description>Built in 5 hours to ease the navigation of events in 2019&amp;rsquo;s Develop Denver website using React.
+The data was seeded to a Ruby on Rails API server.
+&amp;gt; Functionality  Populate list of events by clicking on a venue link Each event will populate a card with information about it Each presenter has a link to the official Develop Denver profile page  &amp;gt; Demo &amp;gt; Links  Github repo Backend repo  &amp;gt; Technologies  JavaScript - High-level Language React - Javascript frontend framework Ruby - High-level language RoR - Ruby on Rails API server  &amp;gt; Team  Ricardo Ortega Blake Long Fekade Senbeta Luke Menard Jeremiah Tabb  MIT Licence</description>
+    </item>
+    
+    <item>
+      <title>Todo NG</title>
+      <link>https://rj-ortega.dev/projects/todo-ng/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/todo-ng/</guid>
+      <description>App to get familiarity with Angular framework
+&amp;gt; Functionality  Add to-do to list Delete to-do from list  &amp;gt; Demo &amp;gt;Links  This project&amp;rsquo;s Github repo  &amp;gt; Technologies  JavaScript - High-level Language Angular - JavaScript framework Sass - Style sheet language  MIT Licence</description>
+    </item>
+    
+    <item>
+      <title>Game Lobby</title>
+      <link>https://rj-ortega.dev/projects/game-lobby/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/game-lobby/</guid>
+      <description>App built using React and Ruby on Rails for the server
+&amp;gt; Functionality  Search popular games by console by clicking links Card will populate with information about each game Create, Select and Sign out of user account Add games to profile Categorize games under profile by &amp;ldquo;Playing&amp;rdquo;, &amp;ldquo;Wishlist&amp;rdquo; and &amp;ldquo;Finished&amp;rdquo;  &amp;gt; Demo &amp;gt; Links  This project&amp;rsquo;s github repo Rails Server repo  &amp;gt; Technologies  JavaScript - High-level Language React - Front-end JavaScript framework Ruby - High-level language RoR - Ruby on Rails API server  MIT licence</description>
+    </item>
+    
+    <item>
+      <title>Rhyme Time</title>
+      <link>https://rj-ortega.dev/projects/rhyme-time/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rj-ortega.dev/projects/rhyme-time/</guid>
+      <description>Ruby on Rails server rendered website to help users write rhyming poetry
+Collaborated with Dustin Keys @codeHustler91 on the project
+&amp;gt; Demo Welcome Menu  Login, Sign Up, and view all poems Get inspired by a random Shakespeare Sonnet! Visit the app github page and Flatiron School website through the links in the top right corner  Create User/Sign Up  Enter your Name, Username, and Password to securely login to your account Enjoy the number of users statistic, you may want to divide by 1 million&amp;hellip;   Login  Enter your existing username and password Check out the most recent poem entered into our database  Poem Index  See a list of all the poems created by our creative users!</description>
+    </item>
+    
+  </channel>
+</rss>

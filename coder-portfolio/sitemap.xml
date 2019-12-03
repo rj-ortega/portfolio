@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/wolves/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/progress-vue/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/ani-lobby/</loc>
+    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/hackathon-develop-dever/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/todo-ng/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/game-lobby/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/rhyme-time/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rj-ortega.dev/tags/</loc>
+  </url>
+  
+</urlset>
