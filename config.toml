@@ -54,22 +54,22 @@ pygmentsUseClasses = true # new add
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 3
+    weight = 4
     url = "https://www.linkedin.com/in/rj-ortega/"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
-    weight = 1
+    weight = 2
     url = "https://github.com/rj-ortega"
 [[params.social]]
-    name = "Blog"
-    icon = "fas fa-edit"
-    weight = 3
-    url = "https://github.com/rj-ortega/knowledge_database/wiki"
+    name = "Resume"
+    icon = "far fa-file-alt"
+    weight = 1
+    url = "https://drive.google.com/file/d/1sdRcrf0dBHM_xSzXzDiRtN9rjOI6QzyU/view"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram"
-    weight = 3
+    weight = 5
     url = "https://www.instagram.com/ricardo_ortega/"
 
 # Menu links
